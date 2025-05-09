@@ -18,6 +18,7 @@
 # else:
 #     print("Failed:", response.status_code)
 #     print(response.text)
+!pip install requests pillow
 
 import requests
 import io
