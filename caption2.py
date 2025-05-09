@@ -1,3 +1,5 @@
+!pip install transformers torch pillow
+
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration
 
